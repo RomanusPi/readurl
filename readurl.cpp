@@ -2,7 +2,7 @@
 #include <string>
 #include <iostream>
 #include <fstream>
-#include <stdlib.h>     /* system, NULL, EXIT_FAILURE */
+#include <stdlib.h>     /* system, NULL, EXIT_FAILURE ver*/   
 
 using namespace std;
 
