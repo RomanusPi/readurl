@@ -3,7 +3,7 @@
 #include <iostream>
 #include <fstream>
 #include <stdlib.h>     /* system, NULL, EXIT_FAILURE */   
-/*ver 1.0*/
+/*ver 1.0a*/
 using namespace std;
 
 
