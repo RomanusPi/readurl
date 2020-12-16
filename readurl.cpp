@@ -2,8 +2,8 @@
 #include <string>
 #include <iostream>
 #include <fstream>
-#include <stdlib.h>     /* system, NULL, EXIT_FAILURE ver*/   
-
+#include <stdlib.h>     /* system, NULL, EXIT_FAILURE */   
+/*ver 1.0*/
 using namespace std;
 
 
